@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://racikitocee.pages.dev/sitemap.xml
